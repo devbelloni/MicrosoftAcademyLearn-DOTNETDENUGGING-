@@ -1,0 +1,16 @@
+D:\PROGRAMAÇÃO\C#\MS Learn\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.exe
+D:\PROGRAMAÇÃO\C#\MS Learn\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.deps.json
+D:\PROGRAMAÇÃO\C#\MS Learn\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.runtimeconfig.json
+D:\PROGRAMAÇÃO\C#\MS Learn\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.runtimeconfig.dev.json
+D:\PROGRAMAÇÃO\C#\MS Learn\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.dll
+D:\PROGRAMAÇÃO\C#\MS Learn\DotNetDebugging\bin\Debug\net5.0\ref\DotNetDebugging.dll
+D:\PROGRAMAÇÃO\C#\MS Learn\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.pdb
+D:\PROGRAMAÇÃO\C#\MS Learn\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.csproj.AssemblyReference.cache
+D:\PROGRAMAÇÃO\C#\MS Learn\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAÇÃO\C#\MS Learn\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.AssemblyInfoInputs.cache
+D:\PROGRAMAÇÃO\C#\MS Learn\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.AssemblyInfo.cs
+D:\PROGRAMAÇÃO\C#\MS Learn\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO\C#\MS Learn\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.dll
+D:\PROGRAMAÇÃO\C#\MS Learn\DotNetDebugging\obj\Debug\net5.0\ref\DotNetDebugging.dll
+D:\PROGRAMAÇÃO\C#\MS Learn\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.pdb
+D:\PROGRAMAÇÃO\C#\MS Learn\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.genruntimeconfig.cache
